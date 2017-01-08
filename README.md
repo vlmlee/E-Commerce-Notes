@@ -19,7 +19,15 @@
 
 # Strategy
 
-### Know when to hire, when not to hire, when to outsource, when to get partners.
+__Know when to hire, when not to hire, when to outsource, when to get partners.__
+
+__Email; automate this.__
+
+__You have to try 10 things before you get one thing to work.__
+
+__Assume that 100% of your revenue comes from a 2nd visit.__
+
+__Ask yourself, what is our work flow?__
 
 ### Find a niche 
 
@@ -59,8 +67,6 @@
 3. No more than two fonts. 
 4. Headline is sans serif. Body in serifs.
 
-### Email; automate this. 
-
 ### Customer Service
 
 1. Make FAQ clear and obvious. 
@@ -80,9 +86,3 @@
 ### Know your numbers exactly
 
 Acquisition cost? Revenue? Profit margin?
-
-### You have to try 10 things before you get one thing to work.
-
-### Assume that 100% of your revenue comes from a 2nd visit.
-
-### Ask yourself, what is our work flow?
