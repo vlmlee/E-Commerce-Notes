@@ -42,10 +42,10 @@ __Ask yourself, what is our work flow?__
 ### Talking to manufacturers: 
 
 1. Verify the factory exists.
-2. Pretend to be a large company with very large order.
+2. On initial contact, pretend to be a large company with very large order and see how they respond.
 3. What is the rock bottom price?
 
-### Preempt a discount. Ask what sales volume they’d like to see for increased wholesale discount.
+__Preempt a discount. Ask what sales volume they’d like to see for increased wholesale discount.__
 
 ### Conversion secrets
 
@@ -73,7 +73,7 @@ __Ask yourself, what is our work flow?__
 2. Make phone number available. 
 3. Can use Callfire to transfer to Skype.
 
-### Once a month, spend all day thinking.
+__Once a month, spend all day thinking.__
 
 ### Words to never use:
 
