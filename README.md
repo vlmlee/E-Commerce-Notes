@@ -37,7 +37,7 @@ __Ask yourself, what is our work flow?__
 4. How competitive is the market?
 5. Future? How long term?
 
-### Dropshipping -> you don’t have the item in stock, one of your distributors sends it to your customer.
+__Dropshipping -> you don’t have the item in stock, one of your distributors sends it to your customer.__
 
 ### Talking to manufacturers: 
 
