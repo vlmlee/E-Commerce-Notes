@@ -1,4 +1,4 @@
-## Some questions to ask
+# Some questions to ask
 
 1. What are the open problems in the field?
 2. Who’s working on what projects?
