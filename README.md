@@ -66,7 +66,11 @@ Make FAQ clear and obvious. Make phone number available. Can use Callfire to tra
 
 ### Words to never use:
 
-Subscription commerce. Trends. Lifestyle brand. Curated artisan experience. It’s pin interest for...
+1. Subscription commerce. 
+2. Trends. 
+3. Lifestyle brand. 
+4. Curated artisan experience. 
+5. It’s pin interest for...
 
 ### Know your numbers exactly
 
