@@ -54,13 +54,18 @@
 
 ### Branding
 
-No more than 2 colors. Make them complements. No more than two fonts. Headline is sans serif. Body in serifs.
+1. No more than 2 colors. 
+2. Make them complements. 
+3. No more than two fonts. 
+4. Headline is sans serif. Body in serifs.
 
 ### Email; automate this. 
 
 ### Customer Service
 
-Make FAQ clear and obvious. Make phone number available. Can use Callfire to transfer to Skype.
+1. Make FAQ clear and obvious. 
+2. Make phone number available. 
+3. Can use Callfire to transfer to Skype.
 
 ### Once a month, spend all day thinking.
 
