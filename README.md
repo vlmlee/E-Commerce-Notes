@@ -19,9 +19,9 @@
 
 # Strategy
 
-## Know when to hire, when not to hire, when to outsource, when to get partners.
+### Know when to hire, when not to hire, when to outsource, when to get partners.
 
-## Find a niche 
+### Find a niche 
 
 1. Price
 2. Size of product
@@ -29,51 +29,51 @@
 4. How competitive is the market?
 5. Future? How long term?
 
-## Dropshipping -> you don’t have the item in stock, one of your distributors sends it to your customer.
+### Dropshipping -> you don’t have the item in stock, one of your distributors sends it to your customer.
 
-## Talking to manufacturers: 
+### Talking to manufacturers: 
 
 1. Verify the factory exists.
 2. Pretend to be a large company with very large order.
 3. What is the rock bottom price?
 
-## Preempt a discount. Ask what sales volume they’d like to see for increased wholesale discount.
+### Preempt a discount. Ask what sales volume they’d like to see for increased wholesale discount.
 
-## Conversion secrets
+### Conversion secrets
 
 1. Write ads that get clicked
 2. Write copy that sells
 3. Features tell, benefits sells
 
-## Affiliates/Referrals
+### Affiliates/Referrals
 
 1. Contact blog owners. Drive traffic through person to person ads.
 2. Email marketing. This is usually to retain customers. Can be used for promotions.
 3. Facebook advertising. Effective when you’re starting out. Targeting is great.
 4. Wholesale brick and mortar. Sell 20+ orders at once.
 
-## Branding
+### Branding
 
 No more than 2 colors. Make them complements. No more than two fonts. Headline is sans serif. Body in serifs.
 
-## Email; automate this. 
+### Email; automate this. 
 
-## Customer Service
+### Customer Service
 
 Make FAQ clear and obvious. Make phone number available. Can use Callfire to transfer to Skype.
 
-## Once a month, spend all day thinking.
+### Once a month, spend all day thinking.
 
-## Words to never use:
+### Words to never use:
 
 Subscription commerce. Trends. Lifestyle brand. Curated artisan experience. It’s pin interest for...
 
-## Know your numbers exactly
+### Know your numbers exactly
 
 Acquisition cost? Revenue? Profit margin?
 
-## You have to try 10 things before you get one thing to work.
+### You have to try 10 things before you get one thing to work.
 
-## Assume that 100% of your revenue comes from a 2nd visit.
+### Assume that 100% of your revenue comes from a 2nd visit.
 
-## Ask yourself, what is our work flow?
+### Ask yourself, what is our work flow?
