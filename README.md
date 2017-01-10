@@ -87,7 +87,7 @@ __Once a month, spend all day thinking.__
 
 Acquisition cost? Revenue? Profit margin?
 
-## Some other questions to ask
+### Some other questions to ask
 
 1. What are the open problems in the field?
 2. Who’s working on what projects?
